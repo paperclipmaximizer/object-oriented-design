@@ -1,0 +1,1 @@
+Are there common things across my objects that can be generalized? 

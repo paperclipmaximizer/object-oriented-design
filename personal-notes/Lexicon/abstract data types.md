@@ -1,0 +1,1 @@
+**abstract data types** - data types that are defined by the their behaviour as opposed to their structure. Defined by the developer rather than the programming language

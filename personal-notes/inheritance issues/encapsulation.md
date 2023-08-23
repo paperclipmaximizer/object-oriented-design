@@ -1,0 +1,1 @@
+How are these attributes and behaviors grouped together and accessed through encapsulation?

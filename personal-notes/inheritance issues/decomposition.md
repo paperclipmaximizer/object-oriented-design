@@ -1,0 +1,1 @@
+Can my classes be simplified into smaller parts using decomposition?

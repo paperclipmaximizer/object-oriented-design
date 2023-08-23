@@ -1,0 +1,1 @@
+redefining variables in the subclass to overright otherwise inherited methods. 

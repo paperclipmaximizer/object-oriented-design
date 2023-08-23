@@ -1,0 +1,1 @@
+or people, may also be included in a sequence diagrams if they use or interaction with objects. 

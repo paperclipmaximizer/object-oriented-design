@@ -1,0 +1,1 @@
+a class can only inherit from one other class in java. 

@@ -1,0 +1,1 @@
+denote a method activation. Objects are activated whenever an object sends, or recieves or is waiting for a message. 

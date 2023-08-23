@@ -1,0 +1,1 @@
+When two behaviours have the same description 

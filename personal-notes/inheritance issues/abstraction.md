@@ -1,0 +1,1 @@
+What attributes and behaviors do you need to model in a class through abstraction?

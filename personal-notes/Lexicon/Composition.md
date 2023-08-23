@@ -1,0 +1,1 @@
+Composition is an exclusive containment of parts _strong has-a_ relationship. 

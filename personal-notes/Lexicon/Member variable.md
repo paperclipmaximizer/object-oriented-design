@@ -1,0 +1,1 @@
+**boundary object** - an object whose role is to interface with an external component, such as a user or an adjacent system

@@ -1,0 +1,1 @@
+**abstract** - in object-oriented design, a class that cannot be instantiated directly, but must be subclassed
