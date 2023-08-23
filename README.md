@@ -1,2 +1,1 @@
-# object-oriented-design
-exercises from the course "object-oriented design"
+exercises and notes from the course ibid
