@@ -1,9 +1,16 @@
 public class Ticket {
-    private int id;
-    public String name;
+    private int ticketNumber;
     public String seatNumber;
-    public int getTicketID() {...}
-    public void setTicketID(int) {...}
-    public String getSeatNumber() {...}
-    public void setSeatNumber(String) {...}
+    public int getTicketID() {
+        return ticketNumber;
+    }
+    public void setTicketID(int tNum) {
+        this.ticketNumber = tNum;
+    }
+    public String getSeatNumber() {
+        return seatNumber;
+    }
+    public void setSeatNumber(String seatNumString) {
+        this.seatNumber = seatNumString;
+    }
 }

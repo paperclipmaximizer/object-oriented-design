@@ -1,10 +1,12 @@
 public class Pilot {
-    private int id;
-    public String name;
+    private String licenseNumber;
     public String getPilotID() {
-        
+        return licenseNumber;
     }
-    public void setPilotID(String) {...}
-    public void registerFlight(Flight) {...} 
-    public void registerStaff(Staff) {...} 
+    public void setPilotID(String licenseString) {
+        this.licenseNumber = licenseString;
+    }
+    public void fly(Flight flight) {
+        flight.getFlightID();
+    } 
 }

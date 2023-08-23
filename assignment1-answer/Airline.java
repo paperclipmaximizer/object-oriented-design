@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class Airline {
     private int id;
     public String name;
@@ -9,5 +11,8 @@ public class Airline {
     }
     public void registerPlane(Plane newPlane) {
         // ... 
-    } 
+    }
+    public ArrayList<Plane> planes; 
+    public ArrayList<Staff> crew;
+    public ArrayList<Pilot> pilots;
 }
